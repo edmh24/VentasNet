@@ -13,6 +13,9 @@
 - **Decisión:** Aprobada mediante evaluación académica simulada.
 - **Responsable:** Edwing Alejandro Mattos Hurtado.
 
+- **Estado:** Implementada y verificada. La prueba con S/ 50 × 3 unidades dio S/ 150. La corrección quedó registrada en el commit `9954941` e integrada en `main`.
+
+
 ## CR-002 — Descuento por subtotal
 
 - **Origen:** Solicitud del área comercial.
